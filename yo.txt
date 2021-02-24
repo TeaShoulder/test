@@ -1,10 +1,7 @@
 yo
 
-<<<<<<< HEAD
   --lsd
   --lsd 123 --
-=======
   --whh lsd
   --whh lsd
 --whh
->>>>>>> 0f9fa903129d4313112a05527ac26f9765bb1cab
